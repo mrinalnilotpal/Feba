@@ -1,0 +1,67 @@
+{
+  "vendor": [
+    {
+      "email": "nilotpal@gmail.com",
+      "password": "mrinal123",
+      "name": "nilotpal mrinal",
+      "phone": "6202195861",
+      "id": 1
+    },
+    {
+      "email": "krishna@gmail.com",
+      "password": "krishna123",
+      "name": "krishna raj",
+      "phone": "6202143861",
+      "id": 2
+    },
+    {
+      "email": "kri@gmail.com",
+      "password": "kris123",
+      "name": "kris raj",
+      "phone": "6202143861",
+      "id": 3
+    },
+    {
+      "email": "kri@gmail.com",
+      "password": "kris123",
+      "name": "kris raj",
+      "phone": "6202143861",
+      "id": 4
+    },
+    {
+      "email": "nilotpal.avanti@gmail.com",
+      "password": "haha",
+      "name": "Manoj Kumar Thakur",
+      "Phone": "06202195861",
+      "id": 5
+    },
+    {
+      "email": "nilotpal.avanti@gmail.com",
+      "password": "haha",
+      "name": "Manoj Kumar Thakur",
+      "Phone": "06202195861",
+      "id": 6
+    },
+    {
+      "email": "nilotpal.avanti@gmail.com",
+      "password": "haha",
+      "name": "Manoj Kumar Thakur",
+      "Phone": "06202195861",
+      "id": 7
+    },
+    {
+      "email": "nilotpal.avanti@gmail.com",
+      "password": "hahsdsmnsd",
+      "name": "Manoj Kumar Thakur",
+      "Phone": "06202195861",
+      "id": 8
+    },
+    {
+      "email": "nilotpal.avanti@gmail.com",
+      "password": "",
+      "name": "Manoj Kumar Thakur",
+      "Phone": "06202195861",
+      "id": 9
+    }
+  ]
+}
